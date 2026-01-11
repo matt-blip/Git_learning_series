@@ -1,1 +1,5 @@
 # This is a new file in a our first commit
+
+# This is our code 
+
+print("I love git")
